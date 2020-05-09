@@ -12,13 +12,13 @@ Sedangkan untuk nomor 6a, Saya menggunakan SQLite untuk membuat tabel dan melaku
 lampirkan hasil screen shoot code program yang telah saya run:
 
 1. Membuat Tabel Product
-![1](https://user-images.githubusercontent.com/63027899/79639118-c5730500-81b3-11ea-817b-fe6b94b9ab3b.jpg)
+![1](https://user-images.githubusercontent.com/63027899/81475549-2a5fcf00-9237-11ea-869e-b394382ae64c.jpg)
 
 2. Membuat Tabel Category
-![2](https://user-images.githubusercontent.com/63027899/79639180-4205e380-81b4-11ea-945a-21fb0c8c2bfa.jpg)
+![2](https://user-images.githubusercontent.com/63027899/81475558-3a77ae80-9237-11ea-89dc-4fe89d73a166.jpg)
 
 3. Membuat Tabel Cashier
-![3](https://user-images.githubusercontent.com/63027899/79639253-d07a6500-81b4-11ea-9956-332377cd5092.jpg)
+![3](https://user-images.githubusercontent.com/63027899/81475563-41062600-9237-11ea-91a9-fe4fa7f4db2c.jpg)
 
 4. Hasil Penggabungan Tabel
-![4](https://user-images.githubusercontent.com/63027899/79639258-d83a0980-81b4-11ea-8f24-ae19c46ebc1d.jpg)
+![4](https://user-images.githubusercontent.com/63027899/81475568-482d3400-9237-11ea-806b-670b76a2162a.jpg)
